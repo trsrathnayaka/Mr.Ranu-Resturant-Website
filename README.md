@@ -3,12 +3,11 @@ A web application to book a room in a hotel, a customer must check the applicati
 
 ## Screen Shot 📷
 
-![WhatsApp Image 2023-05-31 at 08 26 59 (1)](https://github.com/trsrathnayaka/Mr.Ranu-Resturant-Website/assets/97075043/6638d523-de08-42d6-938a-00266f38216f)
+![WhatsApp Image 2023-05-31 at 08 26 59 (1)](https://github.com/trsrathnayaka/Mr.Ranu-Resturant-Website/assets/97075043/15511d2f-beff-479c-9e9e-f7a3c0d1f51c)
 
-![WhatsApp Image 2023-05-31 at 08 26 59](https://github.com/trsrathnayaka/Mr.Ranu-Resturant-Website/assets/97075043/04a6ba8e-be4e-4ab5-a422-490435ca076a)
+![WhatsApp Image 2023-05-31 at 08 26 59](https://github.com/trsrathnayaka/Mr.Ranu-Resturant-Website/assets/97075043/116a60b5-ccd1-4310-84c8-dfc17b0866da)
 
-![WhatsApp Image 2023-05-31 at 08 26 58](https://github.com/trsrathnayaka/Mr.Ranu-Resturant-Website/assets/97075043/d3785c95-e50e-461b-92c5-a50e7756c235)
-
+![WhatsApp Image 2023-05-31 at 08 26 58](https://github.com/trsrathnayaka/Mr.Ranu-Resturant-Website/assets/97075043/fac2909e-81a1-4a11-9eac-ceee8746563b)
 
 ### Used Languages
 * HTML
