@@ -1,4 +1,4 @@
-# Mr.Ranu-Resturant-Website
+# Mr.Ranu Resturant Website
 A web application to book a room in a hotel, a customer must check the application to see if there is an empty room, the duration of the reservation and the overall cost ..etc. by introducing personal information.
 
 ## Screen Shot 📷
